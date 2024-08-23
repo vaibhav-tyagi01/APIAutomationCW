@@ -323,7 +323,7 @@ public static  void validateResponseHasSize(){
 softAssertionUtil.assertAll();
     }
 
-    @DataProvider(name = "testdata") //testgigit      jjjjmaster
+    @DataProvider(name = "testdata")
     return new ojbect[][] {
             
     }
